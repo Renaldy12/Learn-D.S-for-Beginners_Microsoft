@@ -5,16 +5,30 @@ Data merupakan sekumpulan abjad, angka, maupun benda yang dapat dibuat, disimpan
 contoh : nomor telepon, nama user, kendaraan yang datanya dapat disimpan di dalam penyimpanan (database)
 
 *Apa itu Data Science?*
-Data Science merupakan bidang ilmiah yang menggunakan metode ilmiah untuk memperoleh pengetahuan dan wawasan dari data terstruktur dan tidak terstruktur serta menerapkan pengetahuan dan wawasan yang diperoleh ke berbagai bidang
+Data Science merupakan bidang ilmiah yang menggunakan metode ilmiah untuk memperoleh pengetahuan dan wawasan dari data terstruktur
+dan tidak terstruktur serta menerapkan pengetahuan dan wawasan yang diperoleh ke berbagai bidang
 *Aspek penting Ilmu Data*
 1. Untuk mengekstrak pengetahuan => memahami data => menemukan korelasi data dan membangun model
-2. Data Science menggunakan metode ilmiah seperti probabilitas dan statistik. Data Science merupakan bidang yang lebih luas dari sekedar statistik
-3. Pengetahuan (knowledge) yang diperoleh (obtained) harus diterapkan untuk menghasilkan wawasan (insight), yaitu (i.e) wawasan praktis yang dapat diterapkan ke situasi bisnis nyata
+2. Data Science menggunakan metode ilmiah seperti probabilitas dan statistik. Data Science merupakan bidang yang lebih luas dari sekedar
+    statistik
+3. Pengetahuan (knowledge) yang diperoleh (obtained) harus diterapkan untuk menghasilkan wawasan (insight), yaitu (i.e) wawasan praktis
+    yang dapat diterapkan ke situasi bisnis nyata
 4. Kita harus dapat untuk beroperasi pada data terstruktur dan tidak terstruktur
-5. Seorang ilmuwan data setidaknya harus memahami satu domain tingkatan keahlian untuk menerapkan "Data Science" seperti ekonomi, bisnis, kedokteran, dll.
+5. Seorang ilmuwan data setidaknya harus memahami satu domain tingkatan keahlian untuk menerapkan "Data Science" seperti ekonomi, bisnis,
+    kedokteran, dll.
 
 *Ilmu Data = Paradigma (Sudut pandang) ilmu pengetahuan terpisah*
 1. Empiris, sebagian besar (mostly) dari pengamatan dan hasil eksperimen
 2. Teoritis, konsep-konsep baru yang muncul (emerge) dari pengetahuan ilmiah yang sudah ada
 3. Komputasional, menemukan prinsip-prinsip baru dari hasil eksperimen komputasional
 4. Data Driven (berbasis data), dari penemuan hubungan dan pola (patterns) dalam data
+
+*Bidang terkait lainnya*
+1. Database => how to store data, organize and can be process faster
+2. Big Data => sering kali perlu untuk menyimpan dan memproses data dengan jumlah besar dengan struktur yang relatif simpel
+3. Machine Learning => cara memahami data dengan membentuk model untuk memprediksi hasil yang diperlukan
+4. Artificial Intelligence => bidang M.L, bergantung pada data dan melibatkan pembangunan model kompleks tinggi
+    yang bisa meniru proses berpikir manusia
+5. Visualization/Visualisasi => agar manusia dapat memahami kesimpulan dari data besar dengan membuat infografis
+    melalui visualisasi data
+
